@@ -76,8 +76,3 @@ jupyter nbconvert --to notebook --execute --inplace Level-1/Level1_Basic.ipynb
 cd Level-3/dashboard && streamlit run app.py
 ```
 
-##  Submission checklist (intern's own steps)
-- [ ] Record a video walkthrough of the notebooks + live dashboard
-- [ ] Push this folder to a public GitHub repo
-- [ ] Post on LinkedIn tagging **@Codveda** with `#CodvedaJourney #CodvedaProjects #CodvedaAchievements`, linking the GitHub repo + video
-- [ ] Submit via the Codveda submission form (shared later)
