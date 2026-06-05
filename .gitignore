@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv/
+.venv/
+env/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Local data export from the dashboard
+filtered_churn.csv
